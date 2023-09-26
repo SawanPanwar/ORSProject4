@@ -1,0 +1,2 @@
+FROM tomcat:latest
+COPY target/ORSProject4.war /usr/local/tomcat/webapps/
